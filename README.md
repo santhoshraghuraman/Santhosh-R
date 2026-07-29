@@ -5,129 +5,144 @@ Software Engineer | GenAI & Backend Developer | Integrated M.Tech @ VIT Vellore
 </h3>
 
 <p align="center">
-Building scalable AI applications using Python, FastAPI, LangChain, and RAG.
+Building scalable AI applications with Python, FastAPI, LangChain & RAG 🚀
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;GenAI+Developer;Backend+Developer;FastAPI+%7C+LangChain+%7C+RAG;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Integrated M.Tech in Software Engineering at **VIT Vellore**
+- 🎓 Integrated M.Tech Software Engineering @ **VIT Vellore**
 - 💻 Backend & GenAI Developer
-- 🤖 Building AI-powered applications with **LangChain, RAG, IBM watsonx.ai**
-- 🚀 Passionate about AI Agents, Backend Systems, and LLM Applications
+- 🤖 Building AI applications using **LangChain, IBM watsonx.ai & RAG**
+- 🚀 Passionate about AI Agents, Backend Systems & LLM Applications
 - 📄 Co-Inventor of a Published Indian Patent
-- 🌱 Currently exploring Agentic AI and Production AI Systems
+- 🌱 Exploring Agentic AI & Production AI Systems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- SQL
-- Java (Basic)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
 
 ### Backend
-- FastAPI
-- Flask
-- Express.js
-- REST APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ### AI / GenAI
-- LangChain
-- LangFlow
-- RAG
-- FAISS
-- Prompt Engineering
-- IBM watsonx.ai
-- IBM Granite
-- Semantic Search
 
-### Databases
-- PostgreSQL
-- MongoDB
-- Supabase
+![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+![LangFlow](https://img.shields.io/badge/LangFlow-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
+![IBM Watsonx](https://img.shields.io/badge/IBM-watsonx-blue?style=for-the-badge)
 
-### Cloud & Tools
-- Git
-- GitHub
-- Streamlit
-- IBM Cloud Object Storage
-- Vercel
-- VS Code
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔹 SciPilot
 Agentic Research Assistant powered by IBM watsonx.ai, LangChain, FAISS and Streamlit.
 
-**Tech Stack**
-- Python
-- FastAPI
-- LangChain
-- IBM Granite
-- FAISS
-- Streamlit
-
----
-
 ### 🔹 RedactIQ
-
-AI-powered document sanitization system that detects and redacts sensitive information across multiple document formats.
-
----
+AI-powered document sanitization system for secure document processing.
 
 ### 🔹 SecureIt
-
-Image & Video Steganography platform integrated with AI-based Speech-to-Text.
-
----
+Image & Video Steganography with AI Speech-to-Text.
 
 ### 🔹 GroundX
-
-High-performance real estate platform with advanced property search and lead management.
-
----
-
-## 🏆 Achievements
-
-- 📜 Published Indian Patent (Co-Inventor)
-- 🤖 IBM SkillsBuild AI Internship
-- ☁ Oracle OCI AI Foundations Certified
-- 🏅 Stanford Machine Learning Certificate
-- 🏅 IBM AI & Generative AI Certifications
-- 🏅 HackerRank Python & Problem Solving
+Real Estate Platform with intelligent property search.
 
 ---
 
-## 📈 GitHub Stats
+# 🏆 Achievements
+
+🏅 Published Indian Patent (Co-Inventor)
+
+🏅 IBM SkillsBuild AI Internship
+
+🏅 Oracle OCI AI Foundations Certified
+
+🏅 Stanford Machine Learning
+
+🏅 IBM AI Certifications
+
+🏅 HackerRank Python & Problem Solving
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santhoshraghuraman&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=santhoshraghuraman&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshraghuraman&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshraghuraman&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshraghuraman&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Graph
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 santhosh.rv.work@gmail.com
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/santhoshraghuraman/santhoshraghuraman/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> **Note:** The snake animation works only after you configure a GitHub Actions workflow in your profile repository.
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/santhosh-0407rv/
+
+🌐 Portfolio
+
+https://santhosh-portfolio-gamma.vercel.app/
+
+📧 Email
+
+santhosh.rv.work@gmail.com
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile! ⭐
 
 </p>
