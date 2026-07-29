@@ -95,20 +95,15 @@ Real Estate Platform with intelligent property search.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=santhoshraghuraman&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshraghuraman&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=santhoshraghuraman&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshraghuraman&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshraghuraman&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=santhoshraghuraman&theme=tokyonight" />
 </p>
 
 ---
